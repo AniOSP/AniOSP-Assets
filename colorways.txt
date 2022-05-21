@@ -1,0 +1,7 @@
+gradients:
+usual: d70a84-51127f
+colors:
+device assets:
+light: 303030
+dark: 121212
+
